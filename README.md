@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.0.27 Release]() = `*Tool files & folder*`
+- [💾 v.0.27 Release](https://github.com/TW-Warhammer-3-DLC-Unlocker/.github/releases) = `*Tool files & folder*`
 
 
 ---
